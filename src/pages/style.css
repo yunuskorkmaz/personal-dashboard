@@ -1,0 +1,10 @@
+.applicationsPageWrapper{
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	margin: 0px;
+}
+
+.terminalTabsWrapper{
+	max-height: 300px;
+}
